@@ -1,7 +1,7 @@
 # angularjs2
 
 
-[http://angularjs2.webgeeker.xyz](http://angularjs2.webgeeker.xyz)
+[https://angularjs2.webgeeker.xyz](https://angularjs2.webgeeker.xyz)
 
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
